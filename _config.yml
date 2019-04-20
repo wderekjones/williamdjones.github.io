@@ -13,10 +13,9 @@ name                     : &name "Derek Jones"
 description              : &description "personal description"
 url                      : https://williamdjones.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-# baseurl                  : ""
-# production_url           : "https://www.cs.uky.edu/"
-# production_baseurl       : "/~derek"
-# repository               : "academicpages/academ.github.io"
+production_url           : "https://williamdjones.github.io"
+production_baseurl       : "/"
+repository               : "williamdjones/williamdjones.github.io"
 # teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
