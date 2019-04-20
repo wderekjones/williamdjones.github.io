@@ -1,6 +1,4 @@
 ---
-header:
-  overlay_color: "#494E6B"
 layout: "splash"
 permalink: /research/
 title: "research"
