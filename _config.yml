@@ -110,10 +110,10 @@ scholar:
 author:
   name             : "Derek Jones"
   avatar           : "profile.jpg"
-  bio              : "CS M.Sc Student at the University of Kentucky"
-  location         : "Lexington, KY"
-  # employer         : "University of Kentucky Department of Computer Science"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "ChemBio Data Scientist"
+  location         : "San Francisco,CA / Livermore,CA"
+  employer         : "Lawrence Livermore National Laboratory"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=zELlSngAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F4zF0YAOs-7uCkf4gY4_hIGbU4r_RQea1gdgwvLG4tOZctibwkksyUOuAD6WJC7-EiNGIkP9XbfwBwwbtHDluzBtI9oQ0uXP7aozgEHFwvp-eh-rpg"
   email            : "jones289@llnl.gov"
   uri              :
   bitbucket        : "williamdjones"
