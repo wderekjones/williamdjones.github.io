@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: research
+    url: /research/
+
+  # - title: "Talks"
+    # url: /talks/
+
+  # - title: "Teaching"
+    # url: /teaching/
+
+  # - title: "Portfolio"
+    # url: /portfolio/
+
+  # - title: "News"
+    # url: /news/
+
+  - title: "cv"
+    # url: /cv/
+    url: /files/derek_jones_cv.pdf
+  # - title: "Guide"
+    # url: /markdown/
