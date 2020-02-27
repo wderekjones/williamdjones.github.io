@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://domain.tld/hyde/</loc>
-<lastmod>2020-02-24T09:49:41-08:00</lastmod>
+<lastmod>2020-02-26T17:39:05-08:00</lastmod>
 </url>
 <url>
 <loc>https://domain.tld/hydejack/</loc>
-<lastmod>2020-02-24T09:49:41-08:00</lastmod>
+<lastmod>2020-02-26T17:39:05-08:00</lastmod>
 </url>
 <url>
 <loc>https://domain.tld/update-08-16-2017</loc>
@@ -122,8 +122,8 @@
 <lastmod>2019-12-30T10:26:04-08:00</lastmod>
 </url>
 <url>
-<loc>https://domain.tld/files/derek_jones_cv.pdf</loc>
-<lastmod>2019-12-30T10:26:04-08:00</lastmod>
+<loc>https://domain.tld/files/Curriculum_Vitae%20(11).pdf</loc>
+<lastmod>2020-02-26T17:37:32-08:00</lastmod>
 </url>
 <url>
 <loc>https://domain.tld/files/paper1.pdf</loc>
