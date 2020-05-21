@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://williamdjones.github.io/hyde/</loc>
-<lastmod>2020-05-20T03:25:13-07:00</lastmod>
+<lastmod>2020-05-20T19:32:58-07:00</lastmod>
 </url>
 <url>
 <loc>https://williamdjones.github.io/hydejack/</loc>
-<lastmod>2020-05-20T03:25:13-07:00</lastmod>
+<lastmod>2020-05-20T19:32:58-07:00</lastmod>
 </url>
 <url>
 <loc>https://williamdjones.github.io/update-08-16-2017</loc>
@@ -105,7 +105,7 @@
 <loc>https://williamdjones.github.io/bibliography/jones2018thesis/</loc>
 </url>
 <url>
-<loc>https://williamdjones.github.io/bibliography/Jones2017/</loc>
+<loc>https://williamdjones.github.io/bibliography/Jones2017howlow/</loc>
 </url>
 <url>
 <loc>https://williamdjones.github.io/CHANGELOG/</loc>
@@ -149,8 +149,16 @@
 <lastmod>2020-05-19T21:42:06-07:00</lastmod>
 </url>
 <url>
+<loc>https://williamdjones.github.io/assets/pdf/Jones2017howlow.pdf</loc>
+<lastmod>2020-05-20T17:42:01-07:00</lastmod>
+</url>
+<url>
 <loc>https://williamdjones.github.io/assets/pdf/Jones2018poly.pdf</loc>
 <lastmod>2020-05-19T21:39:56-07:00</lastmod>
+</url>
+<url>
+<loc>https://williamdjones.github.io/assets/pdf/jones2018tapia.pdf</loc>
+<lastmod>2020-05-20T19:22:34-07:00</lastmod>
 </url>
 <url>
 <loc>https://williamdjones.github.io/assets/pdf/jones2018thesis.pdf</loc>
@@ -159,6 +167,14 @@
 <url>
 <loc>https://williamdjones.github.io/assets/pdf/jones2020improved.pdf</loc>
 <lastmod>2020-05-19T20:59:18-07:00</lastmod>
+</url>
+<url>
+<loc>https://williamdjones.github.io/assets/slides/Jones2018poly_slides.pdf</loc>
+<lastmod>2020-05-20T17:32:58-07:00</lastmod>
+</url>
+<url>
+<loc>https://williamdjones.github.io/assets/slides/jones2018thesis_slides.pdf</loc>
+<lastmod>2020-04-12T16:01:34-07:00</lastmod>
 </url>
 <url>
 <loc>https://williamdjones.github.io/files/273b-paper-review-2.pdf</loc>
